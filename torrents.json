@@ -2,7 +2,7 @@
   "trackers": [
     {
       "name": "OpenTrackr",
-      "url": "http://tracker.opentrackr.org:1337/announce",
+      "url": "http://open.tracker.thepiratebay.org/announce",
       "categories": ["Games"],
       "registration": "Open",
       "description": "A widely used open tracker."
