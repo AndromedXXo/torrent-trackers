@@ -1,7 +1,11 @@
 {
   "trackers": [
     {
-      "url": "http://tracker.opentrackr.org:1337/announce"
+      "name": "OpenTrackr",
+      "url": "http://tracker.opentrackr.org:1337/announce",
+      "categories": ["Games"],
+      "registration": "Open",
+      "description": "A widely used open tracker."
     }
   ]
 }
