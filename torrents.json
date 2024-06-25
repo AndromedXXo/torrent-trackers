@@ -2,24 +2,6 @@
   "trackers": [
     {
       "url": "http://tracker.opentrackr.org:1337/announce"
-    },
-    {
-      "url": "http://tracker.opentrackr.org:1337/announce"
-    },
-    {
-      "url": "udp://tracker.auctor.tv:6969/announce"
-    },
-    {
-      "url": "udp://opentracker.i2p.rocks:6969/announce"
-    },
-    {
-      "url": "https://opentracker.i2p.rocks:443/announce"
-    },
-    {
-      "url": "udp://open.demonii.com:1337/announce"
-    },
-    {
-      "url": "udp://open.stealth.si:80/announce"
     }
   ]
 }
